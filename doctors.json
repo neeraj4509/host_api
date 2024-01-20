@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ayesha Khan",
+    "expertise": "Cardiologist",
+    "city": "Mumbai"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rajesh Koothrappali",
+    "expertise": "Neurologist",
+    "city": "Pune"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Priya Ramachandran",
+    "expertise": "Pediatrician",
+    "city": "Bengaluru"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Arjun Singh",
+    "expertise": "Orthopedist",
+    "city": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Nita Desai",
+    "expertise": "Dermatologist",
+    "city": "Kolkata"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Vikram Shah",
+    "expertise": "Gastroenterologist",
+    "city": "Chennai"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Lakshmi Rao",
+    "expertise": "Endocrinologist",
+    "city": "Hyderabad"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Sunil Patel",
+    "expertise": "Cardiologist",
+    "city": "Ahmedabad"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Meena Gupta",
+    "expertise": "Neurosurgeon",
+    "city": "Jaipur"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Anand Verma",
+    "expertise": "Pulmonologist",
+    "city": "Lucknow"
+  }
+]
